@@ -1,8 +1,7 @@
 -- Updater configuration
-local title = "Delta Upgrade Lol ::::))))(())";
-local url = "https://deltaexploits.gg";
-
-local versionsToUpdate = {"2.640.730", "2.640.730"};
+--local title = "Delta Upgrade Lol ::::))))(())";
+--local url = "https://deltaexploits.gg";
+--local versionsToUpdate = {"2.640.730", "2.640.730"};
 
 -- Updater internals [START]
 local fVersion, fStringFormat = Version, string.format;
